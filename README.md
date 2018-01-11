@@ -11,4 +11,4 @@ ansible -i dynamic_inventory.py group_name -m ping
 ```
 ## Author Informations
 
-This role was created by [Avinash Pawar](http://devopstechie.com).
+This python script was created by [Avinash Pawar](http://devopstechie.com).
