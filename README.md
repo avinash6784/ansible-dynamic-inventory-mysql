@@ -10,7 +10,7 @@ ansible-playbook -i dynamic_inventory.py example_playbook.yml
 ansible -i dynamic_inventory.py group_name -m ping
 ```
 Python script run and its sample json output
-```python
+```shell
 ./dynamic_inventory.py --list
 
 output ---
